@@ -131,5 +131,5 @@ Use these test cards in Razorpay Checkout to simulate payments:
   - Payment modal shows payment failure
   - Database will not update status to `"paid"`
 
----
+
 
