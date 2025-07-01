@@ -117,7 +117,7 @@ Use these test cards in Razorpay Checkout to simulate payments:
 - Expiry & CVV: Same as above  
 - This will always fail the payment.
 
-🔗 More test cards → [Razorpay Docs: Test Cards](https://razorpay.com/docs/payments/test-card-upi/#cards)
+🔗 More test cards → [Razorpay Docs: Test Cards](https://razorpay.com/docs/payments/payments/test-card-details/)
 
 ---
 
